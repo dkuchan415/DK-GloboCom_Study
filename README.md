@@ -1,4 +1,4 @@
-# DK-GloboCom_Study
+# GloboCom Case Study
 
 Background:
 
