@@ -17,9 +17,8 @@ The CEO has asked for your help in evaluating these options.  Specifically, do y
 
 ## Recommendations:
 
-# 1. Finance
-
-# 2. Marketing
-# 3. Sales
-# 4. Operations
-# 5. Additional Considerations
+1. Finance
+2. Marketing
+3. Sales
+4. Operations
+5. Additional Considerations
