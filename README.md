@@ -21,7 +21,7 @@ Globo-Com currently has $24M in annual revenue and is losing $3.8M annually to c
 
 ## Recommendations:
 
-*1. Finance*
+# 1. Finance
 
 First, I considered Finance's proposal that overall churn percentage is misleading, and that Globo-Com should reduce marketing spend in low-value customers whose churn has low financial impact to increase profitability. With the data's limitations, I made the assumptions that marketing spend is allocated equally across customers of all sizes, and that churn percent is based on the number of churn customers and not total spend of churn customers. 
 
@@ -31,7 +31,7 @@ I looked at customer churn count rather than the overall percentage and broke ou
 
 Churn in the low spend range, from $20-$50, only makes up about 10% of total churn dollars, while in the high spend range it is over 50%. Since marketing spend is considered equal for customers at all spend ranges, the proportion of churn dollars to marketing spend is too heavily weighted on low spend customers. I would accept Finance's proposal that Globo-Com should reduce marketing spend in low value customers. 
 
-2. Marketing
+# 2. Marketing
 
 Marketing plans to focus on it's competition with Average Joe's Wireless and expand Globo-Com internationally to reduce churn. I made the assumption that the additional cost of the internation advertising campaign is negligible. 
 
@@ -45,7 +45,7 @@ To explore this relationship deeper and consider outliers, I also constructed a 
 
 I would reject Marketing's proposal to expand the international plan to reduce churn. There are not many international users and at such a high cost there is not much benefit to the plan. Instead, Globo-Com should focus on cost-reduction to decrease churn.
 
-3. Sales
+# 3. Sales
 
 Sales believes that hiring 10 additional heads in customer service at a cost of $400K annually will help reduce churn. Here I made the assumptions that Globo-Com currently struggles with customer service volume and that additional service reps will help reduce the call volume. 
 
@@ -53,8 +53,10 @@ I wanted to look at churn % across each service call volume to see if there is a
 
 ![image](https://user-images.githubusercontent.com/68552052/222927120-c69246fa-4a1e-4e86-845e-66588a1069bf.png)
 
-I would accept sales proposal to add additional customer service reps on the basis that these reps will reduce service call count. The $400K investment annually can work to reduce churn by $800K per year if the customers with high volume (5 calls and over) are addressed.
+I would accept Sales' proposal to add additional customer service reps on the basis that these reps will reduce service call count. The $400K investment annually can work to reduce churn by $800K per year if the customers with high volume (5 calls and over) are addressed.
 
-4. Operations
-5
-7. Additional Considerations
+# 4. Operations
+
+The Operations team has proposed adding resources to build a predictive model that will analyze customer behavior and diagnose causes of churn. 
+
+# 5. Additional Considerations
