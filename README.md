@@ -21,7 +21,7 @@ Globo-Com currently has $24M in annual revenue and is losing $3.8M annually to c
 
 ## Recommendations:
 
-1. Finance
+*1. Finance*
 
 First, I considered Finance's proposal that overall churn percentage is misleading, and that Globo-Com should reduce marketing spend in low-value customers whose churn has low financial impact to increase profitability. With the data's limitations, I made the assumptions that marketing spend is allocated equally across customers of all sizes, and that churn percent is based on the number of churn customers and not total spend of churn customers. 
 
