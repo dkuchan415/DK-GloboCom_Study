@@ -57,6 +57,19 @@ I would accept Sales' proposal to add additional customer service reps on the ba
 
 ## 4. Operations
 
-The Operations team has proposed adding resources to build a predictive model that will analyze customer behavior and diagnose causes of churn. 
+The Operations team has proposed adding resources to build a predictive model that will analyze customer behavior and diagnose causes of churn. Operations has already identified some trends in certain customer segments.
+
+This recommendation was not measurable based on the current data set. However, I believe that further investigation into causes of $3.8M in annual churn is necessary so I would accept this proposal. Customer retention has been widely reported to increase revenue by up to 80% and reduce acquisition costs by up to 30%.
+
+Citation: (https://www.toptal.com/finance/venture-capital-consultants/the-importance-of-customer-retention-an-empirical-study) 
+![image](https://user-images.githubusercontent.com/68552052/222935347-18061329-4684-4c58-97b0-b6fa0555f5dc.png)
 
 ## 5. Additional Considerations
+
+Additionally, I believe Globo-Com should consider a scaled pricing model. Customers are currently charged equally regardless of total spend. Changing the model could increase margin at low-value customers where churn can be risked, and incentivize high-value customers with lower prices for volume.
+
+I noted a few other thoughts that might be worth considering that were not in the scope of the data.
+
+  - Does higher account length result in higher churn? 
+  - Do certain geographical areas result in higher churn?
+  - Do night or evening users experience greater churn?
